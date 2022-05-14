@@ -1,0 +1,46 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4904e420_002D84c6_002D47d5_002Db16b_002Dd066d0169f16/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="BibliotecaRepositorioTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="D:\CICLO I 20222 UPN\CALIDAD Y PRUEBAS DE SPFTWARE\SEM8\CalidadT2-master\CalidadT2-master\CalidadT2Test" Presentation="&amp;lt;CalidadT2Test&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=523a765e_002D7703_002D4bea_002Db454_002Daeba78243864/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddComentarioCaso01" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Controller.LibroControllerTest.AddComentarioCaso01&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=60110862_002D2e18_002D4477_002Da087_002D705aa5e32bc1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IndexViewCaso01" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Controller.AuthControllerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Controller.LibroControllerTest.DetalleLibroTestCaso01&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Controller.HomeControllerTest.IndexViewCaso01&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Controller.LibroControllerTest.AddComentarioCaso01&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=866d0d0f_002D9c5f_002D4adb_002Dbc0c_002D4e17e1a83378/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddComentarioCaso01 #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Controller.LibroControllerTest.AddComentarioCaso01&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Controller.BibliotecaControllerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Repositorio.UsuarioRepositoriotest.ObtenerUsuarioRepoTestCaso01&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Repositorio.LibroRepositorioTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Repositorio.BibliotecaRepositorioTest.ObtenerBibliotecaRepoTestCaso01&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b140c3dc_002D2dfb_002D4484_002Db110_002Dad6e6ce3e85a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddComentarioCaso01 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Controller.LibroControllerTest.AddComentarioCaso01&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Controller.BibliotecaControllerTest.IndexViewTestCaso01&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Controller.BibliotecaControllerTest.IndexViewCase&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Controller.BibliotecaControllerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Repositorio.UsuarioRepositoriotest.ObtenerUsuarioRepoCaso01&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Repositorio.LibroRepositorioTest.ObtenerLibrosRepoCaso01&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Repositorio.LibroRepositorioTest.ObtenerLibrosPorIdCaso01&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Repositorio.LibroRepositorioTest.agregarComentarioCaso01&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Repositorio.BibliotecaRepositorioTest.ObtenerBibliotecaTestCaso01&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Repositorio.BibliotecaRepositorioTest.ActualizarEstadoCase01&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Repositorio.UsuarioRepositoriotest.ObtenerUsuarioRepoTestCaso01&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cb39a6b4_002D0099_002D4aa0_002D9df0_002Db726877a5ed9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MarcarComoTerminadoTestCase01" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A60830A7-2BA5-456C-ABF7-A5AA9BEE25FA::net6.0::CalidadT2Test.Controller.BibliotecaControllerTest.MarcarComoTerminadoTestCase01&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
